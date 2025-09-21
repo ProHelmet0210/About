@@ -119,7 +119,7 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
 </nav>
 <h1>Refund & Cancellation Policy</h1>
 <p>All payments are final once a service is delivered. If a transaction was charged but service was not provided due to a technical error, contact us within 24 hours for review.</p>
-<p>To request a review, email <a href="mailto:billing@yourdomain.com">billing@yourdomain.com</a> with date/time, amount, and payment reference.</p>
+<p>To request a review, email <a href="mailto:prohelmet.protoptype@gmail.com">prohelmet.protoptype@gmail.com</a> with date/time, amount, and payment reference.</p>
 </body></html>
 
 
@@ -137,7 +137,7 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
   <a href="contact.html">Contact</a>
 </nav>
 <h1>Contact</h1>
-<p><strong>Email:</strong> <a href="mailto:prohelmet.protoptype@gmail.com">support@yourdomain.com</a><br>
+<p><strong>Email:</strong> <a href="mailto:prohelmet.protoptype@gmail.com">prohelmet.protoptype@gmail.com</a><br>
 <strong>Phone:</strong> +91-9849080443<br>
 <strong>Address:</strong> 2-22-148, Subhodaya Colony, kukatpally, Hyd - 72</p>
 </body></html>
