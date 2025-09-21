@@ -67,7 +67,7 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
 <h2>Retention</h2>
 <p>We retain transaction records as required by law and for accounting.</p>
 <h2>Your Rights</h2>
-<p>To access, correct, or delete your data, contact us at <a href="prohelmet.prototype@gmail.com">support@yourdomain.com</a>.</p>
+<p>To access, correct, or delete your data, contact us at <a href="prohelmet.prototype@gmail.com">prohelmet.protoptype@gmail.com</a>.</p>
 <script>document.getElementById('d').textContent=new Date().toISOString().slice(0,10)</script>
 </body></html>
 
