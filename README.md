@@ -23,12 +23,12 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
   </header>
 
   <h2>What we do</h2>
-  <p>ProHelmet is a kiosk that detects helmets using ultrasonic sensors and offers a simple payment flow for services (e.g., cleaning or rentals). It is used by shops and campuses to encourage helmet use.</p>
+  <p>ProHelmet is a kiosk that automatically cleans helmets through a simple payment (e.g., cleaning or rentals). It is used by shops and campuses to encourage hygiene helmet use.</p>
 
   <h2>Pricing</h2>
   <ul>
     <li>Device: contact sales for pricing.</li>
-    <li>Service: pay-per-use (₹xx.xx) or subscription plans.</li>
+    <li>Service: pay-per-use (₹59.00) or subscription plans.</li>
   </ul>
 
   <h2>How payments work</h2>
@@ -67,7 +67,7 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
 <h2>Retention</h2>
 <p>We retain transaction records as required by law and for accounting.</p>
 <h2>Your Rights</h2>
-<p>To access, correct, or delete your data, contact us at <a href="mailto:support@yourdomain.com">support@yourdomain.com</a>.</p>
+<p>To access, correct, or delete your data, contact us at <a href="prohelmet.prototype@gmail.com">support@yourdomain.com</a>.</p>
 <script>document.getElementById('d').textContent=new Date().toISOString().slice(0,10)</script>
 </body></html>
 
@@ -137,7 +137,7 @@ ProHelmet is a Automatic Helmet Cleaning Service which is available round the cl
   <a href="contact.html">Contact</a>
 </nav>
 <h1>Contact</h1>
-<p><strong>Email:</strong> <a href="mailto:prohelmet.protoptype@gmail.com">
+<p><strong>Email:</strong> <a href="mailto:prohelmet.protoptype@gmail.com">support@yourdomain.com</a><br>
 <strong>Phone:</strong> +91-9849080443<br>
 <strong>Address:</strong> 2-22-148, Subhodaya Colony, kukatpally, Hyd - 72</p>
 </body></html>
